@@ -9,7 +9,7 @@ Let's say you are a LinkedIn influencer and you need help in writing yout future
 
 
 ## Technical Architecture
-<img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 11_57_33 AM" src="https://github.com/user-attachments/assets/577f17b6-0145-4186-a4e9-1c7e696c2902" />
+<img width="1400" height="924" alt="ChatGPT Image Mar 27, 2026, 11_57_33 AM" src="https://github.com/user-attachments/assets/577f17b6-0145-4186-a4e9-1c7e696c2902" />
 
 
 - **Stage 1:**  
