@@ -26,4 +26,12 @@ Let's say you are a LinkedIn influencer and you need help in writing yout future
  
 
 ## Setup
-- Get your API_KEY from https://console.groq.com/keys
+- Get API key from https://console.groq.com/keys  
+- Add it to `.env`:
+  - GROQ_API_KEY=your_api_key_here  
+
+- Install dependencies:
+  - pip install -r requirements.txt  
+
+- Run app:
+  - streamlit run main.py  
