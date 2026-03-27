@@ -22,4 +22,8 @@ Let's say you are a LinkedIn influencer and you need help in writing yout future
   Use the selected topic, language, and length to generate a new post.  
   - Relevant past posts are retrieved  
   - These are used as **few-shot examples**  
-  - This helps the LLM understand writing style and tone  
+  - This helps the LLM understand writing style and tone
+ 
+
+## Setup
+- Get your API_KEY from https://console.groq.com/keys
