@@ -24,6 +24,12 @@ Let's say you are a LinkedIn influencer and you need help in writing yout future
   - These are used as **few-shot examples**  
   - This helps the LLM understand writing style and tone
  
+## Tools Used
+
+- Llama 4 → Content generation and pre-processing
+- LangChain → Workflow & prompt handling  
+- Streamlit → User interface  
+ 
 
 ## Setup
 - Get API key from https://console.groq.com/keys  
