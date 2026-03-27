@@ -12,5 +12,14 @@ Technical Architercture
 <img width="1536" height="1024" alt="ChatGPT Image Mar 27, 2026, 11_57_33 AM" src="https://github.com/user-attachments/assets/577f17b6-0145-4186-a4e9-1c7e696c2902" />
 
 
-Stage 1: Collect LinkedIn posts and extract Topic, Language, Length etc. from it.
-Stage 2: Now use topic, language and length to generate a new post. Some of the past posts related to that specific topic, language and length will be used for few shot learning to guide the LLM about the writing style etc.
+- **Stage 1:**  
+  Collect LinkedIn posts and extract:
+  - Topic  
+  - Language  
+  - Length  
+
+- **Stage 2:**  
+  Use the selected topic, language, and length to generate a new post.  
+  - Relevant past posts are retrieved  
+  - These are used as **few-shot examples**  
+  - This helps the LLM understand writing style and tone  
