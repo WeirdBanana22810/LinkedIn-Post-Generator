@@ -231,4 +231,4 @@ if generate_clicked:
     )
 
 # ── Footer ────────────────────────────────────────────────────────────────────
-st.markdown('<div class="footer-note">Built with Claude · Streamlit</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer-note">· Built with Streamlit ·</div>', unsafe_allow_html=True)
