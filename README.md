@@ -1,5 +1,4 @@
 # 🚀 LinkedIn Post Generator
-Live on - https://genai-linkedpostgenerator.streamlit.app/
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts ✍️
 
 <p align="center">
@@ -32,7 +31,9 @@ Let's say you are a LinkedIn influencer 🤵‍💼 and you need help in writing
 - 🔗 LangChain → Workflow & prompt handling  
 - 🖥️ Streamlit → User interface  
  
-
+## 🎥 Live on 
+   https://genai-linkedpostgenerator.streamlit.app/
+   
 ## ⚙️ Setup
 - 🔑 Get API key from https://console.groq.com/keys  
 - 📁 Add it to `.env`:
