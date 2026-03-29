@@ -1,6 +1,5 @@
 # 🚀 LinkedIn Post Generator
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts ✍️
-
 <p align="center">
   <img src ="https://github.com/user-attachments/assets/812045bd-79db-4f0f-a6e1-01a7eb0e354e" width="700"/>
 </p>
