@@ -31,7 +31,7 @@ Let's say you are a LinkedIn influencer 🤵‍💼 and you need help in writing
 - 🖥️ Streamlit → User interface  
  
 ## 🎥 Live on 
-   https://genai-linkedpostgenerator.streamlit.app/
+https://linkedin-post-generator-genai.streamlit.app/
    
 ## ⚙️ Setup
 - 🔑 Get API key from https://console.groq.com/keys  
